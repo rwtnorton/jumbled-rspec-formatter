@@ -1,4 +1,4 @@
-require 'jumbled-rspec-formatter'
+require 'jumbled_formatter'
 require 'spec_helper'
 require 'stringio'
 
